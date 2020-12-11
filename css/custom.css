@@ -1,0 +1,34 @@
+.bck{
+	height: 720px;
+	width: auto;
+	background-image: url(background.jpg);
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+   /* background-image: repeating-linear-gradient(red, yellow 10%, green 20%);?*/
+
+}
+
+nav{
+	
+}
+
+.content {
+ text-align: center;
+ padding-top:20%; 
+}
+
+#btn{
+	background-color: skyblue;
+
+}
+
+h1{
+	color: red;
+}
+
+hr{
+	width: 400px;
+	border-top: 1px solid skyblue;
+	border-bottom: 1px solid rgba(0,0,0,0.5)
+}
